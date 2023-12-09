@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">How Much Days?</string>
-    <string name="facebook_app_id">612202220460756</string>
-    <string name="facebook_client_token">29e04d8aec577979d05693a301c68534</string>
+    <string name="facebook_app_id"><YOUR-FACEBOOK-APP-ID></string>
+    <string name="facebook_client_token"><YOUR-FACEBOOK-CLIENT-TOKEN></string>
 </resources>
